@@ -1,6 +1,12 @@
 # About Me:
-Currently working on homelab infrastructure, servers, networking and cybersecurity.<br><br>Looking to collaborate on cybersecurity, server infrastructure and web development.<br><br>Looking for help with advanced networking and security challenges.<br><br>Currently learning ethical hacking, network security and virtualization.<br><br>Ask me about Proxmox, Linux, Windows Server, networking, Wireshark, Nmap, firewalls and homelabs.<br><br>Fun fact: Building my own homelab with enterprise server hardware and network equipment.
+Hi, I'm Loris. I'm a second-year apprentice in Switzerland, training as an ICT specialist in platform development (Informatiker EFZ Plattformentwicklung) at Sulzer AG.
 
+Alongside my apprenticeship, I have a strong interest in cybersecurity. I run my own homelab on enterprise server hardware and network equipment, where I practise ethical hacking, network security and virtualization.
+
+- **Currently learning:** ethical hacking, network security and virtualization
+- **Open to collaborating on:** cybersecurity, server infrastructure and web development
+- **Looking for help with:** advanced networking and security challenges
+- **Ask me about:** Proxmox, Linux, Windows Server, networking, Wireshark, Nmap, firewalls and homelabs
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loris.kurz@icloud.com) 
