@@ -1,9 +1,9 @@
 # About Me:
-Hi, I'm Loris. I'm a second-year apprentice in Switzerland, training as an ICT specialist in platform development (Informatiker EFZ Plattformentwicklung) at Sulzer AG.
+Hi, I'm Loris. I'm a second-year apprentice in Switzerland, training as an ICT specialist in platform development (Informatiker EFZ Plattformentwicklung) at <a href="https://www.sulzer.com">Sulzer AG</a> <a href="https://www.sulzer.com"><img src="logos/sulzer.png" height="14" alt="Sulzer"></a>.
 
 Alongside my apprenticeship, I have a strong interest in cybersecurity. I run my own homelab on enterprise server hardware and network equipment, where I practise ethical hacking, network security and virtualization.
 
-- **Currently learning:** ethical hacking, network security and virtualization
+- **Currently learning:** scripting, PowerShell, databases, cloud computing and virtual machines
 - **Open to collaborating on:** cybersecurity, server infrastructure and web development
 - **Looking for help with:** advanced networking and security challenges
 - **Ask me about:** Proxmox, Linux, Windows Server, networking, Wireshark, Nmap, firewalls and homelabs
