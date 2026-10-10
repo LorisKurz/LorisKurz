@@ -47,3 +47,15 @@ Alongside my apprenticeship, I have a strong interest in cybersecurity. I run my
   <a href="https://linuxmint.com"><img src="logos/mint.png" height="40" alt="Linux Mint"></a>&nbsp;&nbsp;
   <a href="https://endeavouros.com"><img src="logos/endeavouros.png" height="40" alt="EndeavourOS"></a>
 </p>
+
+# GitHub Stats:
+| | |
+|---|---|
+| Repositories | 2 (1 public, 1 private) |
+| Files uploaded | 1,743 |
+| Lines of code | 106,122 |
+| Commits | 14 |
+
+**Languages:** PHP 45.4% · HTML 20.8% · JavaScript 17.1% · CSS 13.7% · Other 3.0%
+
+<sub>Last updated: 10 October 2026</sub>
