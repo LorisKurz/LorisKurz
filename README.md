@@ -12,3 +12,6 @@ Currently working on homelab infrastructure, servers, networking and cybersecuri
 ![](https://streak-stats.demolab.com/?user=LorisKurz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LorisKurz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img width="474" height="335" alt="OIP" src="https://github.com/user-attachments/assets/fd8bc8f6-0b55-4294-b42a-b6e0f1d15484" />
+
+
