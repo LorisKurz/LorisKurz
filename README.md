@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Loris. I'm a second-year apprentice in Switzerland, training as an ICT specialist in platform development (Informatiker EFZ Plattformentwicklung) at <a href="https://www.sulzer.com">Sulzer AG</a> <a href="https://www.sulzer.com"><img src="logos/sulzer.png" height="14" alt="Sulzer"></a>.
+Hi, I'm Loris. I'm a second-year apprentice in Switzerland, training as an ICT specialist in platform development (Informatiker EFZ Plattformentwicklung) at <a href="https://www.sulzer.com"><img src="logos/sulzer.png" height="14" alt="Sulzer"></a>.
 
 Alongside my apprenticeship, I have a strong interest in cybersecurity. I run my own homelab on enterprise server hardware and network equipment, where I practise ethical hacking, network security and virtualization.
 
@@ -9,7 +9,7 @@ Alongside my apprenticeship, I have a strong interest in cybersecurity. I run my
 - **Ask me about:** Proxmox, Linux, Windows Server, networking, Wireshark, Nmap, firewalls and homelabs
 
 ## Socials:
-[![Email](https://img.shields.io/badge/Email-2f81f7?style=for-the-badge)](mailto:loris.kurz@icloud.com) 
+<a href="mailto:loris.kurz@icloud.com"><img src="logos/mail.png" height="32" alt="Email"></a> 
 
 # Tech Stack:
 <p>
