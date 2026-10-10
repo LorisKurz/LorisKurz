@@ -10,7 +10,9 @@ Alongside my apprenticeship, I have a strong interest in cybersecurity. I run my
 
 ## Socials:
 <a href="mailto:loris.kurz@icloud.com"><img src="logos/mail.png" height="32" alt="Personal email" align="middle"> Personal</a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:loris.kurz@sulzer.com"><img src="logos/mail.png" height="32" alt="Work email" align="middle"> Work</a> 
+<a href="mailto:loris.kurz@sulzer.com"><img src="logos/mail.png" height="32" alt="Work email" align="middle"> Work</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/loris-kurz-194aa8436/"><img src="logos/linkedin.png" height="32" alt="LinkedIn" align="middle"> LinkedIn</a>&nbsp;&nbsp;&nbsp;
+<a href="https://loriskurz.ch"><img src="logos/web.png" height="32" alt="Website" align="middle"> loriskurz.ch</a> 
 
 # Tech Stack:
 <p>
