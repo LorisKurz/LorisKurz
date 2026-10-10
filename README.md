@@ -9,7 +9,8 @@ Alongside my apprenticeship, I have a strong interest in cybersecurity. I run my
 - **Ask me about:** Proxmox, Linux, Windows Server, networking, Wireshark, Nmap, firewalls and homelabs
 
 ## Socials:
-<a href="mailto:loris.kurz@icloud.com"><img src="logos/mail.png" height="32" alt="Email"></a> 
+<a href="mailto:loris.kurz@icloud.com"><img src="logos/mail.png" height="32" alt="Personal email" align="middle"> Personal</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:loris.kurz@sulzer.com"><img src="logos/mail.png" height="32" alt="Work email" align="middle"> Work</a> 
 
 # Tech Stack:
 <p>
@@ -47,15 +48,3 @@ Alongside my apprenticeship, I have a strong interest in cybersecurity. I run my
   <a href="https://linuxmint.com"><img src="logos/mint.png" height="40" alt="Linux Mint"></a>&nbsp;&nbsp;
   <a href="https://endeavouros.com"><img src="logos/endeavouros.png" height="40" alt="EndeavourOS"></a>
 </p>
-
-# GitHub Stats:
-| | |
-|---|---|
-| Repositories | 2 (1 public, 1 private) |
-| Files uploaded | 1,743 |
-| Lines of code | 106,122 |
-| Commits | 14 |
-
-**Languages:** PHP 45.4% · HTML 20.8% · JavaScript 17.1% · CSS 13.7% · Other 3.0%
-
-<sub>Last updated: 10 October 2026</sub>
