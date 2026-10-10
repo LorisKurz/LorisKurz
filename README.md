@@ -6,8 +6,6 @@ Currently working on homelab infrastructure, servers, networking and cybersecuri
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loris.kurz@icloud.com) 
 
 # Tech Stack:
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# Tech Stack (Logos):
 <p>
   <a href="https://www.wireguard.com"><img src="logos/wireguard.png" height="40" alt="WireGuard"></a>&nbsp;&nbsp;
   <a href="https://www.vmware.com"><img src="logos/vmware.png" height="40" alt="VMware"></a>&nbsp;&nbsp;
@@ -28,7 +26,6 @@ Currently working on homelab infrastructure, servers, networking and cybersecuri
   <a href="https://mariadb.org"><img src="logos/mariadb.png" height="40" alt="MariaDB"></a>&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/powershell/"><img src="logos/powershell.png" height="40" alt="PowerShell"></a>&nbsp;&nbsp;
   <a href="https://claude.ai"><img src="logos/claude.png" height="40" alt="Claude"></a>&nbsp;&nbsp;
-  <a href="https://www.anthropic.com/claude-code"><img src="logos/claude-code.png" height="40" alt="Claude Code"></a>&nbsp;&nbsp;
   <a href="https://chatgpt.com"><img src="logos/chatgpt.png" height="40" alt="ChatGPT"></a>
 </p>
 
