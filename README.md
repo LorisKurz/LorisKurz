@@ -29,10 +29,15 @@ Currently working on homelab infrastructure, servers, networking and cybersecuri
   <a href="https://chatgpt.com"><img src="logos/chatgpt.png" height="40" alt="ChatGPT"></a>
 </p>
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LorisKurz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=LorisKurz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LorisKurz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+# Familiar Operating Systems & Distros:
+<p>
+  <a href="https://www.microsoft.com/windows"><img src="logos/windows.png" height="40" alt="Windows"></a>&nbsp;&nbsp;
+  <a href="https://www.apple.com/macos/"><img src="logos/macos.png" height="40" alt="macOS"></a>&nbsp;&nbsp;
+  <a href="https://www.debian.org"><img src="logos/debian.png" height="40" alt="Debian"></a>&nbsp;&nbsp;
+  <a href="https://ubuntu.com"><img src="logos/ubuntu.png" height="40" alt="Ubuntu"></a>&nbsp;&nbsp;
+  <a href="https://nixos.org"><img src="logos/nixos.png" height="40" alt="NixOS"></a>&nbsp;&nbsp;
+  <a href="https://cachyos.org"><img src="logos/cachyos.png" height="40" alt="CachyOS"></a>&nbsp;&nbsp;
+  <a href="https://www.kali.org"><img src="logos/kali.png" height="40" alt="Kali Linux"></a>&nbsp;&nbsp;
+  <a href="https://linuxmint.com"><img src="logos/mint.png" height="40" alt="Linux Mint"></a>&nbsp;&nbsp;
+  <a href="https://endeavouros.com"><img src="logos/endeavouros.png" height="40" alt="EndeavourOS"></a>
+</p>
