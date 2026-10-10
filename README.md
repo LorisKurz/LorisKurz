@@ -9,7 +9,7 @@ Alongside my apprenticeship, I have a strong interest in cybersecurity. I run my
 - **Ask me about:** Proxmox, Linux, Windows Server, networking, Wireshark, Nmap, firewalls and homelabs
 
 ## Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loris.kurz@icloud.com) 
+[![Email](https://img.shields.io/badge/Email-2f81f7?style=for-the-badge)](mailto:loris.kurz@icloud.com) 
 
 # Tech Stack:
 <p>
